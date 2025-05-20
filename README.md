@@ -17,7 +17,6 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 - [Test Plan](https://github.com/marianaluduena/qa-manual-wander-professional-project/blob/main/README.md#test-plan-)
 - [Test Cases](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#test-cases-)
 - [Bugs Reported](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#bugs-reported-)
-- [Regression Tests Cases](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#regression-tests-%EF%B8%8F)
 - [Exploratory testing reports](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#exploratory-testing-reports-)
 - [Performance testing report](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#performance-testing-report)
 - [Metrics](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#metrics-)
@@ -33,7 +32,7 @@ _________________________________________________________
 
 ### Test Cases 🧪
 
-Check all the test cases I wrote during the training per User Story: 
+Check all the test cases I wrote during the training per User Story. **It includes a regression testing sheet in the US-05 Frontend:** 
 
 ### Frontend Test Cases
 
@@ -64,11 +63,6 @@ _________________________________________________________
 
 _________________________________________________________
 
-### Regression Tests ♻️
-
-- **[Regression Tests]()**
-
-_________________________________________________________
 
 ### Exploratory testing reports 🧭
 
@@ -82,6 +76,8 @@ _________________________________________________________
 _________________________________________________________
 
 ### Metrics 📈
+
+- **[Quality final report](https://drive.google.com/file/d/1UwlWG8CTQ9KTRdOgg-GXNqTmJ77SvtiZ/view?usp=drive_link)**
 
 _________________________________________________________
 
