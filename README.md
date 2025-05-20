@@ -58,9 +58,9 @@ _________________________________________________________
 
 ### Bugs Reported 🐞
 
-- **[Bugs Frontend]()**
+- **[Bugs Frontend](https://drive.google.com/drive/folders/1o4ignfDMMZ_p_tMgGn9fvbjssBSyCrOg?usp=drive_link)**
   
-- **[Bugs Backend]()**
+- **[Bugs Backend](https://drive.google.com/drive/folders/16r4TAgDsZt-2S9qJpbrsH1kiwtIhOGH-?usp=sharing)**
 
 _________________________________________________________
 
