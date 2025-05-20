@@ -72,10 +72,13 @@ _________________________________________________________
 
 ### Exploratory testing reports 🧭
 
+- **[Find all the reports + exploratory sessions recorded](https://drive.google.com/drive/folders/1U2GEy_HNu72pSpleG28QUPpBHb17Idgi?usp=sharing)**
+
 _________________________________________________________
 
 ### Performance testing report
 
+- **[Wander Performance report](https://drive.google.com/file/d/1OuhZ3p0Pj7vUSpXBKDtf_JlGcf2JfwOz/view?usp=sharing)**
 _________________________________________________________
 
 ### Metrics 📈
