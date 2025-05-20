@@ -8,13 +8,13 @@ During this project I worked in a multicultural team to build **Wander**, a tour
 My **greatest challenge** was to learn **how to write API test cases and exploratory testing reports post regression testing** . So I learn all of it by using the help of **ChatGPT** just for **ideas and guidance**, but **never by doing copy-paste.**
 
 <div align= "center">
-  <img src="https://github.com/user-attachments/assets/80dc5400-0beb-476e-8b2e-8724b3e425d7" alt="Wander view" width="700"/>
+  <img src="https://github.com/user-attachments/assets/80dc5400-0beb-476e-8b2e-8724b3e425d7" alt="Wander view" width="500"/>
 
 </div>
 
 ## Table of contents 📖
 
-- [Test Plan]()
+- [Test Plan](https://github.com/marianaluduena/qa-manual-wander-professional-project/blob/main/README.md#test-plan-)
 - [Test Cases]()
 - [Bugs Reported]()
 - [Regression Tests Cases]()
