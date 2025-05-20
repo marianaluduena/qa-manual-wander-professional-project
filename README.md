@@ -102,8 +102,8 @@ _________________________________________________________
 
 ### Wander Demo
 
-[See Wander  demo here](https://markdown-videos-api.jorgenkh.no/youtube/{watch?v=lpdwYhhEIWQ})](https://youtu.be/{watch?v=lpdwYhhEIWQ}) 
+[See Wander  demo here](https://markdown-videos-api.jorgenkh.no/youtube/{watch?v=lpdwYhhEIWQ})](https://youtu.be/lpdwYhhEIWQ?si=7PIzoAoobDn35uUc) 
 
 <div align= "center">
-[![](https://markdown-videos-api.jorgenkh.no/youtube/lpdwYhhEIWQ)](https://www.youtube.com/watch?v=lpdwYhhEIWQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/lpdwYhhEIWQ)](https://youtu.be/lpdwYhhEIWQ?si=7PIzoAoobDn35uUc)
 </div>
