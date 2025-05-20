@@ -102,4 +102,4 @@ _________________________________________________________
 
 ### Wander Demo
 
-https://youtu.be/lpdwYhhEIWQ?si=jccrir2AYFdYauq6
+[![](https://markdown-videos-api.jorgenkh.no/youtube/{watch?v=lpdwYhhEIWQ})](https://youtu.be/{watch?v=lpdwYhhEIWQ}) 
