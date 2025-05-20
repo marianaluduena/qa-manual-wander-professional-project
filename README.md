@@ -15,13 +15,13 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 ## Table of contents 📖
 
 - [Test Plan](https://github.com/marianaluduena/qa-manual-wander-professional-project/blob/main/README.md#test-plan-)
-- [Test Cases]()
-- [Bugs Reported]()
-- [Regression Tests Cases]()
-- [Exploratory testing reports]()
-- [Performance testing report]()
-- [Metrics]()
-- [Achievements during this Project]()
+- [Test Cases](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#test-cases-)
+- [Bugs Reported](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#bugs-reported-)
+- [Regression Tests Cases](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#regression-tests-%EF%B8%8F)
+- [Exploratory testing reports](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#exploratory-testing-reports-)
+- [Performance testing report](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#performance-testing-report)
+- [Metrics](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#metrics-)
+- [Achievements during this Project](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#achievements-during-this-training-)
 
 ### Test Plan 🥼
 
