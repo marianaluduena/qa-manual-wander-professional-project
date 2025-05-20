@@ -21,6 +21,8 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 - [Performance testing report](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#performance-testing-report)
 - [Metrics](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#metrics-)
 - [Achievements during this Project](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#achievements-during-this-training-)
+- [Personal Feedback received]()
+- [Wander Demo]()
 
 ### Test Plan 🥼
 
@@ -90,3 +92,14 @@ _________________________________________________________
 - **50 improvement suggestions**
  
 - **[Certificate earned](https://drive.google.com/file/d/19BNZ6kZMm3ZBbesiBhNNv0ptuaYTLP3U/view?usp=drive_link)**
+
+ _________________________________________________________
+
+### Personal Feedback received
+
+- **[Feedback](https://drive.google.com/file/d/1B_OpW6HTMR_3NZxJjf7goaTsX54JhnfT/view?usp=sharing)**
+_________________________________________________________
+
+### Wander Demo
+
+https://youtu.be/lpdwYhhEIWQ?si=jccrir2AYFdYauq6
