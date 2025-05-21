@@ -6,7 +6,7 @@ Here is all my work as QA Manual in my first **professional IT training programm
 
 - [Summary](https://github.com/marianaluduena/qa-manual-wander-professional-project/blob/main/README.md#summary-)
 - [Test Plan](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#test-plan-)
-- [Tools]()
+- [Tools](https://github.com/marianaluduena/qa-manual-wander-professional-project/blob/main/README.md#tools-%EF%B8%8F)
 - [Test Cases](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#test-cases-)
 - [Bugs Reported](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#bugs-reported-)
 - [Exploratory testing reports](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#exploratory-testing-reports-)
