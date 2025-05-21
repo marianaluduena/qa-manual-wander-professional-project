@@ -95,12 +95,12 @@ _________________________________________________________
 
  _________________________________________________________
 
-### Personal Feedback received
+### Personal Feedback received 🗣️
 
 - **[Feedback](https://drive.google.com/file/d/1B_OpW6HTMR_3NZxJjf7goaTsX54JhnfT/view?usp=sharing)**
 _________________________________________________________
 
-### Wander Demo
+### Wander Demo 📺
 
   [![Watch the Demo on YouTube](https://img.youtube.com/vi/lpdwYhhEIWQ/maxresdefault.jpg)](https://youtu.be/lpdwYhhEIWQ)
 
