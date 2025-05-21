@@ -4,6 +4,7 @@ Here is all my work as QA Manual in my first **professional IT training programm
 
 ## Table of contents 📖
 
+- [Summary](https://github.com/marianaluduena/qa-manual-wander-professional-project/blob/main/README.md#summary-)
 - [Test Plan](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#test-plan-)
 - [Test Cases](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#test-cases-)
 - [Bugs Reported](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#bugs-reported-)
@@ -25,8 +26,6 @@ My **greatest challenge** was to learn **how to write API test cases and explora
   <img src="https://github.com/user-attachments/assets/80dc5400-0beb-476e-8b2e-8724b3e425d7" alt="Wander view" width="500"/>
 
 </div>
-
-_________________________________________________________
 
 
 ### Test Plan 🥼
