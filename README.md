@@ -102,5 +102,7 @@ _________________________________________________________
 
 ### Wander Demo
 
-[![Watch the Demo on YouTube](https://img.youtube.com/vi/lpdwYhhEIWQ/maxresdefault.jpg)](https://youtu.be/lpdwYhhEIWQ)
+<div align="center">
+  [![Watch the Demo on YouTube](https://img.youtube.com/vi/lpdwYhhEIWQ/maxresdefault.jpg)](https://youtu.be/lpdwYhhEIWQ)
+</div>
 
