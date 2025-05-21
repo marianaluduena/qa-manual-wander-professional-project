@@ -1,5 +1,8 @@
 # qa-manual-wander-professional-project
-Here is all my work as QA Manual in my first **professional IT training programm in Igrowker.** 
+
+- Here is all my work as QA Manual in my first **professional IT training programm in Igrowker.**
+  
+- ❗ Please note that this project and it's documentation is in **Spanish**, but **I translated the Test Plan and the final quality report to English.** 
 
 
 ## Table of contents 📖
