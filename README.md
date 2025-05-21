@@ -1,16 +1,6 @@
 # qa-manual-wander-professional-project
-Here is all my work as QA Manual in my first professional IT training programm in Igrowker 
+Here is all my work as QA Manual in my first **professional IT training programm in Igrowker.** 
 
-### Summary: 📚
-
-During this project I worked in a multicultural team to build **Wander**, a touristic web app. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
-
-My **greatest challenge** was to learn **how to write API test cases and exploratory testing reports post regression testing** . So I learn all of it by using the help of **ChatGPT** just for **ideas and guidance**, but **never by doing copy-paste.**
-
-<div align= "center">
-  <img src="https://github.com/user-attachments/assets/80dc5400-0beb-476e-8b2e-8724b3e425d7" alt="Wander view" width="500"/>
-
-</div>
 
 ## Table of contents 📖
 
@@ -23,6 +13,21 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 - [Achievements during this Project](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#achievements-during-this-training-)
 - [Personal Feedback received](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#personal-feedback-received)
 - [Wander Demo](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#wander-demo)
+
+
+### Summary: 📚
+
+During this project I worked in a multicultural team to build **Wander**, a touristic web app. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
+
+My **greatest challenge** was to learn **how to write API test cases and exploratory testing reports post regression testing** . So I learn all of it by using the help of **ChatGPT** just for **ideas and guidance**, but **never by doing copy-paste.**
+
+<div align= "center">
+  <img src="https://github.com/user-attachments/assets/80dc5400-0beb-476e-8b2e-8724b3e425d7" alt="Wander view" width="500"/>
+
+</div>
+
+_________________________________________________________
+
 
 ### Test Plan 🥼
 
