@@ -6,6 +6,7 @@ Here is all my work as QA Manual in my first **professional IT training programm
 
 - [Summary](https://github.com/marianaluduena/qa-manual-wander-professional-project/blob/main/README.md#summary-)
 - [Test Plan](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#test-plan-)
+- [Tools]()
 - [Test Cases](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#test-cases-)
 - [Bugs Reported](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#bugs-reported-)
 - [Exploratory testing reports](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#exploratory-testing-reports-)
@@ -34,6 +35,21 @@ My **greatest challenge** was to learn **how to write API test cases and explora
   
 -  **[Test Plan in Spanish](https://docs.google.com/document/d/1ozJWubAVhc0BXBpggDJiQX4KhjacVimstaFX_ivXkSo/edit?usp=sharing)**
 
+_________________________________________________________
+
+
+### Tools 🛠️
+
+- **Jira X Ray**
+  
+- **Postman**
+  
+- **ChatGPT**
+  
+- **Lighthouse**
+  
+- **GitLab**
+  
 _________________________________________________________
 
 ### Test Cases 🧪
