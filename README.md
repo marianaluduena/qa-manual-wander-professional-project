@@ -1,8 +1,6 @@
 # qa-manual-wander-professional-project
-
-- Here is all my work as QA Manual in my first **professional IT training programm in Igrowker.**
   
-- ❗ Please note that this project and it's documentation is in **Spanish**, but **I translated the Test Plan and the final quality report to English.** 
+- ❗ Please note that this project and it's documentation is in **Spanish**.
 
 
 ## Table of contents 📖
@@ -17,7 +15,6 @@
 - [Metrics](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#metrics-)
 - [Achievements during this Project](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#achievements-during-this-training-)
 - [Personal Feedback received](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#personal-feedback-received)
-- [Wander Demo](https://github.com/marianaluduena/qa-manual-wander-professional-project?tab=readme-ov-file#wander-demo)
 
 
 ### Summary: 📚
@@ -110,7 +107,7 @@ _________________________________________________________
 
 - **150 Test Cases were executed, covering the core functionalities of the main features**
   
-- **60 bugs identified**
+- **60 bugs identified and resolved**
   
 - **50 improvement suggestions**
  
@@ -121,10 +118,6 @@ _________________________________________________________
 ### Personal Feedback received 🗣️
 
 - **[Feedback](https://drive.google.com/file/d/1B_OpW6HTMR_3NZxJjf7goaTsX54JhnfT/view?usp=sharing)**
-_________________________________________________________
 
-### Wander Demo 📺
-
-  [![Watch the Demo on YouTube](https://img.youtube.com/vi/lpdwYhhEIWQ/maxresdefault.jpg)](https://youtu.be/lpdwYhhEIWQ)
 
 
